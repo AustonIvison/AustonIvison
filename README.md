@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AustonIvison&theme=radical" alt="AustonIvison's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=AustonIvison&theme=radical" alt="AustonIvison's GitHub Streak" />
 </p>
 
 ## 🏆 GitHub Trophies
